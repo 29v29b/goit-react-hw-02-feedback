@@ -1,0 +1,11 @@
+.btn {
+  display: block;
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
